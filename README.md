@@ -53,7 +53,7 @@ I modified some skins (images) and some values to better suit what I wanted.<br>
     <li>Modified other strings to fix certain sections from displaying the "%" wrong.</li>
 </ul>
 
-<h3>Notes for end user.</h3>
+<h3>Notes</h3>
 You must change the values within the CPU file and Network file.<br>
 Within CPU ini change the value CPURPM within the variables section to match your RPM.<br>
 Within Network ini change the value maxDownloads / maxUploads within the variables section to match your Mbs.<br>
