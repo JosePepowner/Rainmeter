@@ -2,7 +2,7 @@
 Modified Rainmeter skin https://www.deviantart.com/mekurukitoxd/art/HOXY-2-Rainmeter-Skins-System-monitoring-803532685. <br>
 Just a basic dump of the modified skin. For both myself to reference back to and others if they need an example. <br>
 I take 0 credit in creating the skin and full credit goes to the original artist. I just made it work for me. <br>
-I modified some skins (images) and some values to better suit what I wanted.<br><br>
+I modified some skins (images) and some values to better suit what I wanted.<br>
 <h1>1.0 Changes</h1>
 <h2>CPU:</h2>
 <ul>
