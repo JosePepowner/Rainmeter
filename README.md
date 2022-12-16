@@ -4,7 +4,7 @@ Just a basic dump of the modified skin. For both myself to reference back to and
 I take 0 credit in creating the skin and full credit goes to the original artist. I just made it work for me. <br>
 I modified some skins (images) and some values to better suit what I wanted.<br>
 <h1>1.2 Changes</h1>
-<h2>CPU:</h2>
+<h2>GPU:</h2>
 Complete rework of the GPU.ini file. Instead of pointing to MSI afterburner I've completely moved the pointers to HWInfo. This was done for compatability as well as keeping less programs open.
 <h1>1.1 Changes</h1>
 <h2>CPU:</h2>
