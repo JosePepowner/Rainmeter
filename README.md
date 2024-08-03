@@ -42,7 +42,7 @@ Removed an extra line left in during testing. Line 211.
 </ul>
 <h2>Uptime:</h2>
 <ul>
-    <li>Changed to display current session. Was tracking the overall section.</li>
+    <li>Changed to display current session. Was tracking the overall PC session.</li>
 </ul>
 <h2>Drives:</h2>
 <ul>
