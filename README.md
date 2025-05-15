@@ -6,7 +6,7 @@ I modified some skins (images) and some values to better suit what I wanted.<br>
 <h1>2.0 Changes</h1>
 <h2>CPU:</h2>
 Added up to 16 Core support (Includes Visuals, I decided to quickly extend the image, I guess I did want to do it afterall.) 
-I seperated the two into their own folder in case you prefer the smaller version. This includes a regress to 1.2 Changes. 
+<br>I seperated the two into their own folder in case you prefer the smaller version. This includes a regress to 1.2 Changes. 
 <h1>1.2 Changes</h1>
 <h2>CPU:</h2>
 Added 10 Core support (Note: The skin will NOT display the 9/10th core as it only supports 8, this requires image editing that I do NOT want to do. However, the bar will reflect the 10 cores instead of just 8.). Re-arranged the objects in the config to reflect the order they appear in HWInfo Gadgets page. (Makes it easier to match the Values) Removed incorrect and duplicate MeasureBar for extended mode.
