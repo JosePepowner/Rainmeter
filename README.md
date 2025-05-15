@@ -7,7 +7,7 @@ I modified some skins (images) and some values to better suit what I wanted.<br>
 <h2>CPU:</h2>
 Added 10 Core support (Note: The skin will NOT display the 9/10th core as it only supports 8, this requires image editing that I do NOT want to do. However, the bar will reflect the 10 cores instead of just 8.). Re-arranged the objects in the config to reflect the order they appear in HWInfo Gadgets page. (Makes it easier to match the Values)
 <h2>GPU:</h2>
-Re-arranged the objects in the config to reflect the order they appear in HWInfo Gadgets page. Also changed the vRAM value that's being pulled from HWInfo. (This allows the memory to have a comma.)
+Re-arranged the objects in the config to reflect the order they appear in HWInfo Gadgets page. Also changed the vRAM value that's being pulled from HWInfo. (This allows the memory to have a comma as well as scale properly when VRAM scales to GB usage.)
 <h1>1.1.1 Changes</h1>
 <h2>GPU:</h2>
 Reworked Skin to properly display RPM on the fan. See notes for info.
