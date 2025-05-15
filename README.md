@@ -7,7 +7,7 @@ I modified some skins (images) and some values to better suit what I wanted.<br>
 <h2>CPU:</h2>
 Added 10 Core support. Re-arranged the objects in the config to reflect the order they appear in HWInfo Gadgets page. (Makes it easier to match the Values)
 <h2>GPU:</h2>
-Re-arranged the objects in the config to reflect the order they appear in HWInfo Gadgets page.
+Re-arranged the objects in the config to reflect the order they appear in HWInfo Gadgets page. Also changed the vRAM value that's being pulled from HWInfo. (This allows the memory to have a comma.)
 <h1>1.1.1 Changes</h1>
 <h2>GPU:</h2>
 Reworked Skin to properly display RPM on the fan. See notes for info.
