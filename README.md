@@ -3,9 +3,12 @@ Modified Rainmeter skin https://www.deviantart.com/mekurukitoxd/art/HOXY-2-Rainm
 Just a basic dump of the modified skin. For both myself to reference back to and others if they need an example. <br>
 I take 0 credit in creating the skin and full credit goes to the original artist. I just made it work for me. <br>
 I modified some skins (images) and some values to better suit what I wanted.<br>
+<h1>2.0 Changes</h1>
+<h2>CPU:</h2>
+Added up to 16 Core support (Includes Visuals, I decided to quickly extend the image, I guess I did want to do it afterall.) I seperated the two into their own folder in case you prefer the smaller version.
 <h1>1.2 Changes</h1>
 <h2>CPU:</h2>
-Added 10 Core support (Note: The skin will NOT display the 9/10th core as it only supports 8, this requires image editing that I do NOT want to do. However, the bar will reflect the 10 cores instead of just 8.). Re-arranged the objects in the config to reflect the order they appear in HWInfo Gadgets page. (Makes it easier to match the Values)
+Added 10 Core support (Note: The skin will NOT display the 9/10th core as it only supports 8, this requires image editing that I do NOT want to do. However, the bar will reflect the 10 cores instead of just 8.). Re-arranged the objects in the config to reflect the order they appear in HWInfo Gadgets page. (Makes it easier to match the Values) Removed incorrect and duplicate MeasureBar for extended mode.
 <h2>GPU:</h2>
 Re-arranged the objects in the config to reflect the order they appear in HWInfo Gadgets page. Also changed the vRAM value that's being pulled from HWInfo. (This allows the memory to have a comma as well as scale properly when VRAM scales to GB usage.)
 <h1>1.1.1 Changes</h1>
