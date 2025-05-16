@@ -7,7 +7,7 @@ I modified some skins (images) and some values to better suit what I wanted.<br>
 <h2>CPU:</h2>
 <ul>
     <li>Added up to 16 Core support (Includes visuals).</li>
-    <li>I separated the two into their own folder in case you prefer the smaller version. This includes a regress to 1.2 Changes.</li>
+    <ul><li>I separated the two into their own folder in case you prefer the smaller version. This includes a regress to 1.2 Changes.</li></ul>
 </ul>
 <h1>1.2 Changes</h1>
 <s><h2>CPU:</h2>
