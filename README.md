@@ -18,7 +18,8 @@ I modified some skins (images) and some values to better suit what I wanted.<br>
 <s><h2>CPU:</h2>
 <ul>
     <li>Added 10 Core support (Note: The skin will NOT display the 9/10th core as it only supports 8, this requires image editing that I do NOT want to do. However, the bar will reflect the 10 cores instead of just 8.).</li></s>
-    <li>Re-arranged the objects in the config to reflect the order they appear in HWInfo Gadgets page. (Makes it easier to match the Values) Removed incorrect and duplicate MeasureBar for extended mode.</li>
+    <li>Re-arranged the objects in the config to reflect the order they appear in HWInfo Gadgets page. (Makes it easier to match the Values)</li>
+    <li>Removed incorrect and duplicate MeasureBar for extended mode.</li>
 </ul>
 <h2>GPU:</h2>
 <ul>
