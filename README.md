@@ -3,6 +3,11 @@ Modified Rainmeter skin https://www.deviantart.com/mekurukitoxd/art/HOXY-2-Rainm
 Just a basic dump of the modified skin. For both myself to reference back to and others if they need an example. <br>
 I take 0 credit in creating the skin and full credit goes to the original artist. I just made it work for me. <br>
 I modified some skins (images) and some values to better suit what I wanted.<br>
+<h1>2.0.1 Changes</h1>
+<h2>Network:</h2>
+<ul>
+    <li>Adjusted math for Mbps > MB conversion.</li>
+</ul>
 <h1>2.0 Changes</h1>
 <h2>CPU:</h2>
 <ul>
