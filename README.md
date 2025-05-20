@@ -91,14 +91,14 @@ I modified some skins (images) and some values to better suit what I wanted.<br>
 </ul>
 
 <h3>Notes</h3>
-You must change the values within the CPU file and Network file.<br>
+You must change the values within the CPU, GPU, and Network file.<br>
 Within CPU ini / GPU ini change the value CPURPM / GPURPM within the variables section to match your RPM.<br>
 Within Network ini change the value maxDownloads / maxUploads within the variables section to match your Mbs.<br>
 Lastly because of HWinfo and the way it interacts with the values you must follow this guide to set up your CPU properly. https://docs.rainmeter.net/tips/hwinfo/ <br>
 Essentially my CPU values will not work for sensors as they might be labeled differently, have more values in general, or be in a completely different order than yours. <br>
 
 <h3>Close</h3>
-Please understand I am not great at all this and did this for myself. So, if things are broken, I encourage you to let me know but please understand I may not bother fixing them. 
+Please understand I am not great at all of this and did this for myself. So, if things are broken, I encourage you to let me know but please understand I may not bother fixing them. 
 
 
 
