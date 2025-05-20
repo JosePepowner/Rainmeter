@@ -15,9 +15,9 @@ I modified some skins (images) and some values to better suit what I wanted.<br>
     <ul><li>I separated the two into their own folder in case you prefer the smaller version. This includes a regress to 1.2 Changes.</li></ul>
 </ul>
 <h1>1.2 Changes</h1>
-<s><h2>CPU:</h2>
+<h2>CPU:</h2>
 <ul>
-    <li>Added 10 Core support (Note: The skin will NOT display the 9/10th core as it only supports 8, this requires image editing that I do NOT want to do. However, the bar will reflect the 10 cores instead of just 8.).</li></s>
+    <s><li>Added 10 Core support (Note: The skin will NOT display the 9/10th core as it only supports 8, this requires image editing that I do NOT want to do. However, the bar will reflect the 10 cores instead of just 8.).</li></s>
     <li>Re-arranged the objects in the config to reflect the order they appear in HWInfo Gadgets page. (Makes it easier to match the Values)</li>
     <li>Removed incorrect and duplicate MeasureBar for extended mode.</li>
 </ul>
@@ -100,6 +100,3 @@ Essentially my CPU values will not work for sensors as they might be labeled dif
 
 <h3>Close</h3>
 Please understand I am not great at all of this and did this for myself. So, if things are broken, I encourage you to let me know but please understand I may not bother fixing them. 
-
-
-
