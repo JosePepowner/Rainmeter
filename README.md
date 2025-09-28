@@ -4,7 +4,7 @@ Just a basic dump of the modified skin. For both myself to reference back to and
 I take 0 credit in creating the skin and full credit goes to the original artist. I just made it work for me. <br>
 I modified some skins (images) and some values to better suit what I wanted.<br>
 <h1>2.0.3 Changes</h1>
-<h2>CPU:</h2>
+<h2>CPU/GPU:</h2>
 <ul>
     <li>Reuploaded CPU.ini/GPU.ini as they were encoded improperly.</li>
 </ul>
